@@ -2,7 +2,7 @@
 	"compilerOptions": {
 		"target": "es5",
 		"module": "commonjs",
-		"watch": false,
+		"watch": true,
 		"sourceMap": false,
 		"outDir": "./out"
 	},
